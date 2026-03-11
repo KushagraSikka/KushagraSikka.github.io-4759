@@ -1,0 +1,302 @@
+{
+  "heading": "$ find ~/projects -type d -maxdepth 1",
+  "projects": [
+    {
+      "name": "RAG_Microservice-",
+      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Dockerfile",
+        "Shell"
+      ],
+      "stars": 17,
+      "forks": 2,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/RAG_Microservice-",
+      "isNew": false
+    },
+    {
+      "name": "cross-platform-marketing-analytics",
+      "description": "Cross-Platform Marketing Analytics Pipeline — Facebook, Google, TikTok | BigQuery + SQL + Tableau",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "stars": 5,
+      "forks": 0,
+      "language": "HTML",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/cross-platform-marketing-analytics",
+      "isNew": false
+    },
+    {
+      "name": "comprehensive-mcp-guide",
+      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "technologies": [
+        "JavaScript"
+      ],
+      "stars": 1,
+      "forks": 1,
+      "language": "JavaScript",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+      "isNew": false
+    },
+    {
+      "name": "Gator_taxi_Advanced_data_struc",
+      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "technologies": [
+        "Python",
+        "Makefile"
+      ],
+      "stars": 1,
+      "forks": 1,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+      "isNew": false
+    },
+    {
+      "name": "bank-app-spring-cloud-microservices",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "Java"
+      ],
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+      "isNew": false
+    },
+    {
+      "name": "minikeyvalue",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "Go",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "stars": 1,
+      "forks": 0,
+      "language": "Go",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/minikeyvalue",
+      "isNew": false
+    },
+    {
+      "name": "portfolio",
+      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Shell",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 1,
+      "language": "JavaScript",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/portfolio",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-7203",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-7203",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-3398",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-3398",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-6814",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-6814",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-1274",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-1274",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-9670",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "JavaScript",
+        "CSS"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-9670",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-6560",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-6560",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-7938",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-7938",
+      "isNew": false
+    },
+    {
+      "name": "data-pipeline-with-dbt-using-airflow-on-gcp",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-8591",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-8591",
+      "isNew": false
+    },
+    {
+      "name": "KushagraSikka.github.io-4686",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-4686",
+      "isNew": false
+    },
+    {
+      "name": "python-for-automating-information-security",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Python"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/python-for-automating-information-security",
+      "isNew": false
+    },
+    {
+      "name": "symptom-checker-chatbot",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "HTML",
+        "Python",
+        "JavaScript",
+        "CSS"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+      "isNew": false
+    },
+    {
+      "name": "about-section-fix-test",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "stars": 0,
+      "forks": 0,
+      "language": "CSS",
+      "liveUrl": "",
+      "githubUrl": "https://github.com/KushagraSikka/about-section-fix-test",
+      "isNew": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "heading": "$ ls -la skills/",
+  "categories": [
+    {
+      "name": "languages",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Python",
+        "R",
+        "SQL"
+      ]
+    },
+    {
+      "name": "frameworks",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "ggplot2",
+        "ggmap",
+        "leaflet"
+      ]
+    },
+    {
+      "name": "tools",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Excel",
+        "Tableau",
+        "Power BI",
+        "RStudio"
+      ]
+    },
+    {
+      "name": "technical",
+      "permissions": "drwxr-xr-x",
+      "items": [
+        "Data Analysis",
+        "Statistical Modeling",
+        "Data Mining",
+        "Data Wrangling",
+        "SQL Management",
+        "Data Visualization",
+        "Dashboarding",
+        "Problem-Solving",
+        "Analytical Thinking",
+        "Time Management",
+        "Collaboration",
+        "Attention to Detail"
+      ]
+    }
+  ],
+  "githubUsername": "KushagraSikka"
+}

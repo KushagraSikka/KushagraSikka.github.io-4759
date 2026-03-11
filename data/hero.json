@@ -1,0 +1,49 @@
+{
+  "asciiName": [
+    "===============",
+    "  POOJA PATEL  ",
+    "==============="
+  ],
+  "name": "POOJA PATEL",
+  "tagline": "Available for work",
+  "roles": [
+    "Data Science Graduate",
+    "Cashier",
+    "Data Analyst",
+    "Technical Support Specialist"
+  ],
+  "bootSequence": [
+    "[OK] Loading kernel modules...",
+    "[OK] Initializing network interfaces...",
+    "[OK] Mounting filesystems...",
+    "[OK] Starting SSH daemon...",
+    "[OK] Loading portfolio data...",
+    "[OK] System ready."
+  ],
+  "techTags": [
+    "Python",
+    "R",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "ggplot2"
+  ],
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/KushagraSikka",
+      "icon": "github"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:patel.pooja81599@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "resumeUrl": "",
+  "stats": {
+    "experience": "3+ years",
+    "projects": 3,
+    "commits": "500+"
+  }
+}
